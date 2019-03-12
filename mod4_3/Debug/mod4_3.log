@@ -1,0 +1,11 @@
+﻿  mod4_3.c
+c:\users\thomas\dropbox\school\csc 230\module 4\3\mod4_3\mod4_3\mod4_3.c(43): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\thomas\dropbox\school\csc 230\module 4\3\mod4_3\mod4_3\mod4_3.c(43): warning C4024: 'push': different types for formal and actual parameter 2
+c:\users\thomas\dropbox\school\csc 230\module 4\3\mod4_3\mod4_3\mod4_3.c(93): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\thomas\dropbox\school\csc 230\module 4\3\mod4_3\mod4_3\mod4_3.c(93): warning C4024: 'push': different types for formal and actual parameter 2
+c:\users\thomas\dropbox\school\csc 230\module 4\3\mod4_3\mod4_3\mod4_3.c(113): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\thomas\dropbox\school\csc 230\module 4\3\mod4_3\mod4_3\mod4_3.c(113): warning C4024: 'push': different types for formal and actual parameter 2
+c:\users\thomas\dropbox\school\csc 230\module 4\3\mod4_3\mod4_3\mod4_3.c(160): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+c:\users\thomas\dropbox\school\csc 230\module 4\3\mod4_3\mod4_3\mod4_3.c(186): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  mod4_3.vcxproj -> C:\Users\Thomas\Dropbox\School\CSC 230\module 4\3\mod4_3\Debug\mod4_3.exe
+  mod4_3.vcxproj -> C:\Users\Thomas\Dropbox\School\CSC 230\module 4\3\mod4_3\Debug\mod4_3.pdb (Full PDB)
